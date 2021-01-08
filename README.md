@@ -1,6 +1,6 @@
 # JPush API PHP Client
 
-该项目包含示例，运行代码仅使用src/JPush文件夹
+## 该项目包含示例，运行代码仅使用src/JPush文件夹
 
 这是 JPush REST API 的 PHP 版本封装开发包，是由极光推送官方提供的，一般支持最新的 API 功能。
 
